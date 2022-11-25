@@ -9,3 +9,5 @@ print("Hello World!")
 
 print('This is code in my new branch!!!')
 print('and only there')
+
+magnus_liste = [1,2,3]
